@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jihenameur/DITG.git/static/css/main.f3c66f72.chunk.css",
+    "main.js": "/jihenameur/DITG.git/static/js/main.7383ba6e.chunk.js",
+    "main.js.map": "/jihenameur/DITG.git/static/js/main.7383ba6e.chunk.js.map",
+    "runtime-main.js": "/jihenameur/DITG.git/static/js/runtime-main.f9e2ef77.js",
+    "runtime-main.js.map": "/jihenameur/DITG.git/static/js/runtime-main.f9e2ef77.js.map",
+    "static/js/2.4e44dd1d.chunk.js": "/jihenameur/DITG.git/static/js/2.4e44dd1d.chunk.js",
+    "static/js/2.4e44dd1d.chunk.js.map": "/jihenameur/DITG.git/static/js/2.4e44dd1d.chunk.js.map",
+    "static/js/3.9cc0cc59.chunk.js": "/jihenameur/DITG.git/static/js/3.9cc0cc59.chunk.js",
+    "static/js/3.9cc0cc59.chunk.js.map": "/jihenameur/DITG.git/static/js/3.9cc0cc59.chunk.js.map",
+    "index.html": "/jihenameur/DITG.git/index.html",
+    "static/css/main.f3c66f72.chunk.css.map": "/jihenameur/DITG.git/static/css/main.f3c66f72.chunk.css.map",
+    "static/js/2.4e44dd1d.chunk.js.LICENSE.txt": "/jihenameur/DITG.git/static/js/2.4e44dd1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e2ef77.js",
+    "static/js/2.4e44dd1d.chunk.js",
+    "static/css/main.f3c66f72.chunk.css",
+    "static/js/main.7383ba6e.chunk.js"
+  ]
+}
